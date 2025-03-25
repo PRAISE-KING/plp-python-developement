@@ -20,8 +20,11 @@ print(f"{my_list} - are my variables")
 
 
 # .....................................................LIST........................................................
+# are mutable
+# uses square brackets []
 
 students = ['praiz','tess','glorian','Eva',3.5,True,3]
-print(students)
-print(students[0:4])
+print(students) # prints the 
+print(students[0:4]) # prints the list from index 0 to 3rd index excluding the last index in this case 4
 
+# +254791486125 Evans Mutuku lec
